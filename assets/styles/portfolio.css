@@ -148,10 +148,10 @@ nav ul li a:hover {
   padding: 30px;
   border-radius: 15px;
   width: 250px;
-  transition: transform 0.3s, background 0.3s;
+  transition: transform 0.9s, background 0.3s;
 }
 .card:hover {
-  transform: translateY(-10px);
+  transform: translateX(-19px);
   background-color: #b30000;
 }
 
